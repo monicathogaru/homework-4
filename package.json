@@ -2,8 +2,12 @@
   "name": "webapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webapp.js",
   "scripts": {
+
+        "dev": "node webapp.js",
+        "start":"node webapp.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
